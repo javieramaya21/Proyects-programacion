@@ -25,18 +25,8 @@ Sistema multi-clase en Java implementado desde especificaciones UML. Cubre inter
  Torres de Hanói en RISC-V Assembly
 Implementación recursiva del algoritmo en RV32I puro, gestionando la pila manualmente sin pseudoinstrucciones. Simulado y validado en RARS.
 
- Visualizador de Estructuras de Datos
+ JAva - Visualizador de Estructuras de Datos
 Implementación interactiva de arreglos, listas enlazadas, pilas, colas con análisis de complejidad algorítmica.
 
 
-GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javieramaya21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javieramaya21&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=javieramaya21&color=blueviolet&style=flat-square" alt="profile views"/>
-</p>
