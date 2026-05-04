@@ -3,8 +3,8 @@
 <br/>
 
 Sobre mí
-Soy estudiante de Ingeniería en Desarrollo de Software en el ITESO (generación 2023–2028), con enfoque en el ciclo de vida del desarrollo y resolución lógica de problemas. Me apasiona construir software limpio y funcional, explorar arquitecturas de bajo nivel y crear experiencias visuales.
-Fuera del código.
+Soy estudiante de Ingeniería en Desarrollo de Software en el ITESO (generación 2023–2028), con enfoque en el ciclo de vida del desarrollo y resolución lógica de problemas. Me apasiona construir software limpio y funcional y explorar arquitecturas de bajo nivel y alto nivel.
+
 
  Estudiando IDS en el ITESO · Zapopan, Jalisco
  Experiencia en gestión y automatización de datos en entornos corporativos
